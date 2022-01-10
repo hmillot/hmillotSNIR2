@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
     cout << "Bonjour" << endl;
     cout << "Monde" << endl;
-    cout << "TFC GO !" << endl;
+    cout << "TFC " << endl;
     return 0;
 }
 
